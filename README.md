@@ -5,6 +5,7 @@ MONDEIQUE multi task learning (MTL) category classification using Tensorflow
 
 - [X] Loading Dataset
 - [X] Working with tf.data and the Dataset object
+- [ ] Single Task Learning
 - [ ] Building a convolutional network with the custom estimators
 - [ ] Rewriting our custom estimator
-- [ ] Multi-task learning with the multihead
+- [ ] Multi Task L:earning with the multihead
