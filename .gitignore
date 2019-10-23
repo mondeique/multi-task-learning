@@ -3,3 +3,6 @@
 
 # jupyter checkpoint 
 .ipynb_checkpoints/
+
+# Mac DS_Store file
+.DS_Store
