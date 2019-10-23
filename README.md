@@ -1,6 +1,14 @@
 # multi-task-learning
 MONDEIQUE multi task learning (MTL) category classification using Tensorflow
 
+## Data
+```
+TO BE ADDED
+```
+## Data Structure
+```
+TO BE ADDED
+```
 ## TODO
 
 - [X] Loading Dataset
