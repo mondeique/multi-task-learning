@@ -1,14 +1,17 @@
 # multi-task-learning
 MONDEIQUE multi task learning (MTL) category classification using Tensorflow
 
+## How to install 
+```
+pip install -r requirements.txt
+```
+## How to run 
+```
+run cell tf_MTL.ipynb
+```
 ## Data
-```
-TO BE ADDED
-```
-## Data Structure
-```
-TO BE ADDED
-```
+1. Images
+2. CSV
 ## Data Structure
 ```
 |
