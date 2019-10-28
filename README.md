@@ -9,11 +9,16 @@ TO BE ADDED
 ```
 TO BE ADDED
 ```
-## TODO
-
-- [X] Loading Dataset
-- [X] Working with tf.data and the Dataset object
-- [ ] Single Task Learning
-- [ ] Building a convolutional network with the custom estimators
-- [ ] Rewriting our custom estimator
-- [ ] Multi Task L:earning with the multihead
+## Data Structure
+```
+|
+|-- data
+      |-- images
+            |-- training (training/evaluation)
+            |-- test (test images)
+      |-- csv
+            |-- training
+            |-- test
+|-- split_csv.ipynb
+|-- tf_MTL.ipynb (main training file)
+```
