@@ -6,15 +6,15 @@ MONDEIQUE multi task learning (MTL) category classification using Tensorflow
 pip install -r requirements.txt
 ```
 ## How to run
-> 아래와 같은 순서로 진행한다.
+- 아래와 같은 순서로 진행한다.
 1. Download Image & CSV data from data-explorer
-- data-explorer 로 부터 training image 와 해당 category info를 추출한다. 
+> data-explorer 로 부터 training image 와 해당 category info를 추출한다. 
 2. data-augmentation with few datas
-- data_augmentation.ipynb jupyter file 을 이용해 augment 과정을 거친다. 
+> data_augmentation.ipynb jupyter file 을 이용해 augment 과정을 거친다. 
 3. make labeling.csv
-- augment DataFrame과 기존 CroppedImage DataFrame을 이용해서 새로운 labeling.csv를 생성한다.
+> augment DataFrame과 기존 CroppedImage DataFrame을 이용해서 새로운 labeling.csv를 생성한다.
 4. run tensorflow MTL code
-- Basic MTL code 를 customized 하여 실행시킨다. 
+> Basic MTL code 를 customized 하여 실행시킨다. 
 
 ## Data
 1. Images
