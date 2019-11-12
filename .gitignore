@@ -9,4 +9,5 @@
 
 # training bag image
 /data/bag_image/*
+/data/cropped-bag-images-dev/*
 /data/bag_image.zip
