@@ -6,3 +6,6 @@
 
 # Mac DS_Store file
 .DS_Store
+
+# training bag image
+/data/bag_image/*
