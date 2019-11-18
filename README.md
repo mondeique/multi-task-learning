@@ -36,6 +36,7 @@ pip install -r requirements.txt
             |-- training
             |-- test
 |-- pre-processing_csv.ipynb
-|-- tf_MTL.ipynb (main training file)
+|-- tf_MTL.ipynb (multi task learning)
+|-- tf_STL.ipynb (single task learning)
 |-- data_augmentation.ipynb 
 ```
