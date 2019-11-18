@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ## Data
 1. Images
-> CroppedImage + Augmented CroppedImage (Rotate / Noise / Flip)
+> CroppedImage + Augmented CroppedImage (Rotate / Noise / Flip 중 random 하게 n번)
 2. CSV
 > 각 CroppedImage의 filename 과 해당 category source_id
 ## Data Structure
