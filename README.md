@@ -40,3 +40,7 @@ pip install -r requirements.txt
 |-- tf_STL.ipynb (single task learning)
 |-- data_augmentation.ipynb 
 ```
+
+## TODO
+
+- [ ] model restore for testing 
