@@ -43,4 +43,5 @@ pip install -r requirements.txt
 
 ## TODO
 
-- [ ] model restore for testing 
+- [ ] model restore for testing
+- [ ] serving_inference_fn() coding
