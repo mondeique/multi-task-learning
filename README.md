@@ -24,6 +24,7 @@ pip install -r requirements.txt
 ## Data Structure
 ```
 |
+|-- test_result
 |-- data
       |-- images
             |-- cropped-bag-images-dev
